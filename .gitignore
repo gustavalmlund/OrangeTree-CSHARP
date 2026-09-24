@@ -1,0 +1,44 @@
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Visual Studio cache files
+*.VC.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Mono
+*.pidb
+*.sconsign.dblite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# dotnet
+project.lock.json
+artifacts/
+
+# User-specific files and logs
+*.log
+*.vsix
+
+# OneDrive shortcuts
+*.lnk

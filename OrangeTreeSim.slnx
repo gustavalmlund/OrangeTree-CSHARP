@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OrangeTreeSim/OrangeTreeSim.csproj" />
+  <Project Path="OrangeTreeTest/OrangeTreeTest.csproj" />
+</Solution>
